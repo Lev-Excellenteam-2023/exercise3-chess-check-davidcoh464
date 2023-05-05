@@ -1,7 +1,0 @@
-#
-# Untrack files
-#
-
-venv
-__pycache__
-.idea
