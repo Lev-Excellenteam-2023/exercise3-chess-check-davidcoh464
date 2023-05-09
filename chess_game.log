@@ -1,0 +1,67 @@
+INFO:root:Human player start
+INFO:root:White wins.
+INFO:root:Number of chess on the white 0
+INFO:root:Number of chess on the black 14
+INFO:root:All of White's pieces survived 16 turns
+INFO:root:All of Black's pieces survived 23 turns
+
+INFO:root:Human player start
+INFO:root:Number of chess on the white 0
+INFO:root:Number of chess on the black 0
+INFO:root:All of White's pieces survived 12 turns
+INFO:root:All of Black's pieces survived 11 turns
+
+INFO:root:Human player start
+INFO:root:White wins.
+INFO:root:Number of chess on the white 2
+INFO:root:Number of chess on the black 4
+INFO:root:All of White's pieces survived 7 turns
+INFO:root:All of Black's pieces survived 8 turns
+
+INFO:root:Human player start
+INFO:root:White wins.
+INFO:root:Number of chess on the white 2
+INFO:root:Number of chess on the black 10
+INFO:root:All of White's pieces survived 13 turns
+INFO:root:All of Black's pieces survived 18 turns
+
+2023-05-04 23:20:57 INFO     Human player start
+2023-05-04 23:47:53 INFO     White wins.
+2023-05-04 23:47:53 INFO     Number of chess on the white 2
+2023-05-04 23:47:53 INFO     Number of chess on the black 8
+2023-05-04 23:47:53 INFO     All of White's pieces survived 23 turns
+2023-05-04 23:47:53 INFO     All of Black's pieces survived 28 turns
+
+2023-05-04 23:56:48 INFO     White player start
+2023-05-05 00:02:37 INFO     White wins.
+2023-05-05 00:02:37 INFO     Number of chess on the white 0
+2023-05-05 00:02:37 INFO     Number of chess on the black 17
+2023-05-05 00:02:37 INFO     All of White's pieces survived 13 turns
+2023-05-05 00:02:37 INFO     All of Black's pieces survived 4 turns
+
+2023-05-05 00:21:32 INFO     White player start
+2023-05-05 00:24:21 INFO     White wins.
+2023-05-05 00:24:23 INFO     Number of chess on the white 0
+2023-05-05 00:24:23 INFO     Number of chess on the black 5
+2023-05-05 00:24:23 INFO     All of White's pieces survived 32 turns
+2023-05-05 00:24:23 INFO     All of Black's pieces survived 10 turns
+
+2023-05-05 00:25:22 INFO     AI player start
+2023-05-05 00:50:38 INFO     Number of chess on the white 1
+2023-05-05 00:50:38 INFO     Number of chess on the black 17
+2023-05-05 00:50:38 INFO     All of White's pieces survived 11 turns
+2023-05-05 00:50:38 INFO     All of Black's pieces survived 2 turns
+
+2023-05-05 17:08:06 INFO     Human player start
+2023-05-05 17:08:15 INFO     Number of chess on the white 0
+2023-05-05 17:08:15 INFO     Number of chess on the black 0
+2023-05-05 17:08:15 INFO     All of White's pieces survived 1 turns
+2023-05-05 17:08:15 INFO     All of Black's pieces survived 1 turns
+
+2023-05-05 17:12:23 INFO     Human player start
+2023-05-05 17:42:06 INFO     White wins.
+2023-05-05 17:42:07 INFO     Number of chess on the white 11
+2023-05-05 17:42:07 INFO     Number of chess on the black 6
+2023-05-05 17:42:07 INFO     All of White's pieces survived 21 turns
+2023-05-05 17:42:07 INFO     All of Black's pieces survived 16 turns
+
